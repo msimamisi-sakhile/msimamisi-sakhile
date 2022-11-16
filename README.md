@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msimamisi-sakhile
 - 👀 I’m interested in Embedded Systems Programming, Network Engineering and mobile application development
-- 🌱 I’m currently learning Dart on the Flutter Framework
+- 🌱 I’m currently learning Parallel and Concurrent Programming in Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
