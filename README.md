@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msimamisi-sakhile
+- 👋 Hi, I’m @msimamisi-sakhile-Lushaba
 - 👀 I’m interested in Embedded Systems Programming, Network Engineering and mobile application development
 - 🌱 I’m currently learning Parallel and Concurrent Programming in Java
 - 💞️ I’m looking to collaborate on ...
