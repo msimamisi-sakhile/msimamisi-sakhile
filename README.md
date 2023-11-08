@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @msimamisi-sakhile-lushaba
-- 👀 I’m interested in Embedded Systems Programming, Network Engineering
-- 🌱 I’m currently learning Parallel and Concurrent Programming in Java
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java Springboot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me lushabamsimamisi@gmail.com
 
 <!---
 msimamisi-sakhile/msimamisi-sakhile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
