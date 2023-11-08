@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msimamisi-sakhile-lushaba
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development & CyberSecurity
 - 🌱 I’m currently learning Java Springboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lushabamsimamisi@gmail.com
