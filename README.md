@@ -45,12 +45,12 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 ### Julia
 
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=9558B2)](https://julialang.org/)
-- Description about your experience with Julia.
+
 
 ### C
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-- Description about your experience with C.
+
 
 ### Verilog
 
@@ -72,6 +72,4 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 Feel free to reach out! Let's connect and collaborate.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1abc9c?style=for-the-badge&logo=website&logoColor=white&labelColor=1abc9c)](https://your-portfolio-website.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/msimamisi/))
