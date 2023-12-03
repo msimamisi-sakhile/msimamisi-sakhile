@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)](https://flask.palletsprojects.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=3776AB)](https://matplotlib.org/)
 
 
 ### Java
