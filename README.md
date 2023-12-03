@@ -72,4 +72,4 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 Feel free to reach out! Let's connect and collaborate.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/msimamisi/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)]([https://www.linkedin.com/in/msimamisi/](https://www.linkedin.com/in/msimamisi/))
