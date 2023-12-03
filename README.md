@@ -18,29 +18,30 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 ### Python
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)](https://flask.palletsprojects.com/)
 - Description about your experience with Python and Flask.
 
 ### Java
 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=red)](https://www.java.com/)
 - Description about your experience with Java.
 
 ### HTML
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - Description about your experience with HTML.
 
 ### CSS
 
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Description about your experience with CSS.
 
 ### JavaScript
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Description about your experience with JavaScript.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ES6](https://img.shields.io/badge/ES6-ECMAScript_6-F7DF1E?style=for-the-badge&labelColor=blue)](https://www.ecma-international.org/ecma-262/6.0/)
+- Description about your experience with JavaScript and ECMAScript 6.
 
 ## GitHub Stats
 
@@ -50,6 +51,6 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 Feel free to reach out! Let's connect and collaborate.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1abc9c?style=flat&logo=website&logoColor=white)](https://your-portfolio-website.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/your-twitter-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1abc9c?style=for-the-badge&logo=website&logoColor=white&labelColor=1abc9c)](https://your-portfolio-website.com/)
