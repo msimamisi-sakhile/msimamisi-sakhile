@@ -12,11 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
-Here's a brief overview of my tech stack:
-
-## Technologies
+## Tech Stack
 
 ### Python
 
