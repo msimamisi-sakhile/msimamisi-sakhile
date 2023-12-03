@@ -62,9 +62,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8)](https://www.mathworks.com/products/matlab.html)
 
-### P4
 
-[![P4](https://img.shields.io/badge/P4-7055B5?style=for-the-badge&logo=p4&logoColor=white&labelColor=7055B5)](https://p4.org/)
 
 ## GitHub Stats
 
