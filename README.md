@@ -9,6 +9,8 @@ msimamisi-sakhile/msimamisi-sakhile is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and technology. Here's a brief overview of my tech stack:
@@ -18,7 +20,8 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 ### Python
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-- Description about your experience with Python.
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+- Description about your experience with Python and Flask.
 
 ### Java
 
