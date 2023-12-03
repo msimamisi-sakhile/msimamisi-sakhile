@@ -42,6 +42,28 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ES6](https://img.shields.io/badge/ES6-ECMAScript_6-F7DF1E?style=for-the-badge&labelColor=blue)](https://www.ecma-international.org/ecma-262/6.0/)
 
+### Julia
+
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=9558B2)](https://julialang.org/)
+- Description about your experience with Julia.
+
+### C
+
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
+- Description about your experience with C.
+
+### Verilog
+
+[![Verilog](https://img.shields.io/badge/Verilog-4285F4?style=for-the-badge&logoColor=white&labelColor=4285F4)](https://en.wikipedia.org/wiki/Verilog)
+
+### MATLAB
+
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8)](https://www.mathworks.com/products/matlab.html)
+
+### P4
+
+[![P4](https://img.shields.io/badge/P4-7055B5?style=for-the-badge&logo=p4&logoColor=white&labelColor=7055B5)](https://p4.org/)
+
 ## GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msimamisi-sakhile&show_icons=true&hide=contribs,prs)](https://github.com/msimamisi-sakhile)
