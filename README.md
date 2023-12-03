@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and technology. Here's a brief overview of my tech stack:
