@@ -20,32 +20,31 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)](https://flask.palletsprojects.com/)
-- Description about your experience with Python and Flask.
+
 
 ### Java
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=red)](https://www.java.com/)
-- Description about your experience with Java.
+
 
 ### HTML
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- Description about your experience with HTML.
+
 
 ### CSS
 
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- Description about your experience with CSS.
+
 
 ### JavaScript
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ES6](https://img.shields.io/badge/ES6-ECMAScript_6-F7DF1E?style=for-the-badge&labelColor=blue)](https://www.ecma-international.org/ecma-262/6.0/)
-- Description about your experience with JavaScript and ECMAScript 6.
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)](https://github.com/your-username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)](https://github.com/msimamisi-sakhile)
 
 ## Contact
 
