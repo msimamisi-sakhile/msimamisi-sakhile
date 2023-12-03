@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)](https://github.com/msimamisi-sakhile)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msimamisi-sakhile&show_icons=true&hide=contribs,prs)](https://github.com/msimamisi-sakhile)
 
 ## Contact
 
