@@ -70,4 +70,5 @@ You can click the Preview link to take a look at your changes.
 
 Feel free to reach out! Let's connect and collaborate.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)]([https://www.linkedin.com/in/msimamisi/](https://www.linkedin.com/in/msimamisi))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/msimamisi/)
+
