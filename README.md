@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msimamisi-sakhile&show_icons=true&hide=contribs,prs)](https://github.com/msimamisi-sakhile)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msimamisi-sakhile&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true)](https://github.com/msimamisi-sakhile)
 
 ## Contact
 
