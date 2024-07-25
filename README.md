@@ -1,4 +1,4 @@
-# Hi there! 👋
+<h1 align="center"> Hi there!</h1> 👋
 
 - 👋 Hi, I’m @msimamisi-sakhile-lushaba
 - 👀 I’m interested in Software Development
