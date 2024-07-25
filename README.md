@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Tech Stack
 
+
 ### Python
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
@@ -68,3 +69,6 @@ Feel free to reach out! Let's connect and collaborate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/msimamisi/)
 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msimamisi-sakhile&show_icons=true&locale=en&layout=compact" alt="msimamisi-sakhile" /></p>
